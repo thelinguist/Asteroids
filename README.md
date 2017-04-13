@@ -1,0 +1,2 @@
+#Super Asteroids
+>One of our Android coding projects was to write a simple Asteroids game. The game would use a JSON file to define levels, player parameters, and graphics to be loaded. The player could customize their ship and then play through the levels. The project required me to learn about Viewports and the math behind moving objects, data access objects and loading data in to a database, and SQL databases. Some files are deleted to discourage plagiarism.
